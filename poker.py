@@ -23,3 +23,6 @@ class Rank(enum):
     QUEEN = 12 
     KING = 12 
     ACE = 13 
+
+class pokerHand: 
+    mylist = [card_1,card_2,card_3,card_4,card_5]
