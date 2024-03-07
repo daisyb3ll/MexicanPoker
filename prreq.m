@@ -5,7 +5,8 @@ A list of five issues must exist in the repo.
         a. random functions for their cards
         b. logic for card pulling 
         c. andrina method
-Defined contribution guidelines and instructions for how to contribute/run/test
+    2. figuring out how to use dictionaries to simulate (1)deck shuffling (2)drawing cards at random
+//Defined contribution guidelines and instructions for how to contribute/run/test
 Defined unit tests run with each checkin
 Coding guidelines and standards
 Readme or docs on how to run the application and test

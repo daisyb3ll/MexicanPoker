@@ -1,7 +1,19 @@
 # MexicanPoker
 welcome to mexican poker, just like Texas Holdem- but not boring! 
-
 The rule to Mexican Poker are very similar to regular poker. 
+
+#SetUp
+Fork Repository
+    tutorial: 
+    https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+
+    terminal commands:
+    python3 deck.py
+
+    at the moment the only file that compiles and runs output is deck.py
+    the rest of the game is still in progress
+    
+    
 
 ~~ CARDS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To start, poker is a card game- we use cards. Poker is played with a deck of 52 cards. 
